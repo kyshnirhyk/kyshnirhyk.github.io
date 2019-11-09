@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>Васиаль Симоненко</title>
+	
+	</head>
+	>
+	<body>
+	
+		<h1>Про силу слова<h1>
+		</body>
+</html>
+
